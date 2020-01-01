@@ -1,0 +1,7 @@
+C:\Users\jf891\Desktop\C# Cluster\LinkWithList\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jf891\Desktop\C# Cluster\LinkWithList\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jf891\Desktop\C# Cluster\LinkWithList\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jf891\Desktop\C# Cluster\LinkWithList\ConsoleApp1\obj\Debug\LinkWithList.csprojResolveAssemblyReference.cache
+C:\Users\jf891\Desktop\C# Cluster\LinkWithList\ConsoleApp1\obj\Debug\LinkWithList.csproj.CoreCompileInputs.cache
+C:\Users\jf891\Desktop\C# Cluster\LinkWithList\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jf891\Desktop\C# Cluster\LinkWithList\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
